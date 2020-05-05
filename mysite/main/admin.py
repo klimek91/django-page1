@@ -4,9 +4,9 @@ from .models import Tutorial
 # Register your models here.
 
 class TutorialAdmin(admin.ModelAdmin):
-    fields = ["tutorial_title",
-              "tutorial_published",
-              "tutorial_content"]
+    #fields = ["tutorial_title",
+     #         "tutorial_published",
+     #         "tutorial_content"]
 
     fieldsets = [
         ("Title/date", {"fields" : ["tutorial_title","tutorial_published"]}),
