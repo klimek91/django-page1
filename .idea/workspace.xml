@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467ea35c-1a55-4de8-8368-0b5c3df9ad51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/main/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
